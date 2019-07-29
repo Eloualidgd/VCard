@@ -1,0 +1,21 @@
+body{
+    background:brown;
+    color:black;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+    transition:0.4s;
+    width: 450px;
+    height: 450px;
+    right:421px;
+    top: 60px;
+    position: absolute;
+    background: firebrick;
+    text-align: center;
+    padding: 15px;
+}
+
+.wrap{
+
+}
